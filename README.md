@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I’m @calvin<br><br>- 👀 I’m interested in PHP, LARAVEL<br>- 🌱 I’m currently learning LARAVEL AND LIVEWIRE <br>- 💞️ I’m looking to collaborate on software development and website development  <br>- 📫 Reach me on whatsapp [+254 794865939](https://wa.me/254794865939)
+# 👋 Hi, I’m @calvin<br><br>- I’m interested in PHP, LARAVEL<br>- I’m currently learning LARAVEL AND LIVEWIRE <br>- I’m looking to collaborate on software development and website development  <br>- 📫 Reach me on whatsapp [+254 794865939](https://wa.me/254794865939)
 
 
 ## 🌐 Socials:
