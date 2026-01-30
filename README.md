@@ -25,6 +25,8 @@ From backend systems to frontend polish, everything I build follows a clear proc
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ph4nt0m_._)
+OR
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ph4.nt0.m)
 
 ---
 
