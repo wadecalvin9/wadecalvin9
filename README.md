@@ -1,4 +1,4 @@
-# 🏄‍♂️ Cavin  
+# Cavin   
 ### Digital Craftsman (Full-Stack Developer)
 
 I’m an indie full-stack developer crafting my own version of the digital world — **one project at a time**.  
