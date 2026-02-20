@@ -1,5 +1,5 @@
 # Cavin   
-### Digital Craftsman (Full-Stack Developer)
+### Digital Architect (Full-Stack Developer)
 
 I’m an indie full-stack developer crafting my own version of the digital world — **one project at a time**.  
 I build products from scratch with a focus on **real-world problem solving**, clean architecture, and thoughtful design.
